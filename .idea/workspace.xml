@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92055967-4fc7-47a5-bfe9-7cafadd67fa8" name="Changes" comment="Fixed github link" />
+    <list default="true" id="92055967-4fc7-47a5-bfe9-7cafadd67fa8" name="Changes" comment="Fixed images link">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +38,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1671045347280</updated>
-      <workItem from="1671045348845" duration="1091000" />
+      <workItem from="1671045348845" duration="1453000" />
     </task>
     <task id="LOCAL-00001" summary="Added github link">
       <created>1671045809519</created>
@@ -52,7 +54,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671046185509</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Fixed images link">
+      <created>1671046723002</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1671046723002</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,6 +81,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added github link" />
     <MESSAGE value="Fixed github link" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed github link" />
+    <MESSAGE value="Fixed images link" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed images link" />
   </component>
 </project>
